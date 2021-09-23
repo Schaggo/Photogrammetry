@@ -16,7 +16,7 @@ This guide aims to provide an overview about photogrammetry for beginners and in
 
 - Metrics [goto](https://github.com/Schaggo/Photogrammetry/tree/main/Metrics)
 
-- What is 'Data' and what is 'Noise'? [goto]()
+- What is 'Data' and what is 'Noise'? [goto](https://github.com/Schaggo/Photogrammetry/tree/main/What_is_data_What_is_noise)
 
 - Capturing data
     - How to shoot
