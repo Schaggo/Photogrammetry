@@ -19,6 +19,8 @@ This guide aims to provide an overview about photogrammetry for beginners and in
 - What is 'Data' and what is 'Noise'?
 
 - Capturing data
+    - How to shoot
+        - Practical guide
     - Cameras
         - System cameras
             - Buying guide
@@ -36,8 +38,7 @@ This guide aims to provide an overview about photogrammetry for beginners and in
     - Polarization
         - What is polarized light? Why?
         - Polarization filter
-    - How to shoot
-        - Practical guide
+    - Narrow bandwidth imaging 
 
 - Filtering/ cleaning
     - RAW processing
