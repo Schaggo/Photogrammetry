@@ -22,7 +22,7 @@ Picture at least 3 circles/passes around the object. Planing the capture helps.
 Once you have 3 rings with images where the objects fills the frame, you can add more passes of detail shots / decrease the distance to the object.
 
 ### the background to be: 
-- a solid color (white or black)
-- still (nothing moving or changing in the image, including lights)
+- ideally a solid color (white or black)
+- or at least still (nothing moving or changing in the image, including lights)
 
 
