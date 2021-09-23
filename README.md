@@ -12,11 +12,11 @@ This guide aims to provide an overview about photogrammetry for beginners and in
 
 ## Contents
 
-- What is photogrammetry
+- What is photogrammetry [goto](https://github.com/Schaggo/Photogrammetry/tree/main/What%20is%20photogrammetry)
 
-- Metrics
+- Metrics [goto](https://github.com/Schaggo/Photogrammetry/tree/main/Metrics)
 
-- What is 'Data' and what is 'Noise'?
+- What is 'Data' and what is 'Noise'? [goto]()
 
 - Capturing data
     - How to shoot
