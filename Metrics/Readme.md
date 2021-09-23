@@ -50,6 +50,12 @@ Describes the amount of data per pixel per color chanel is captured. The higher 
 
 A higher bit rate translates to higher color accuracy and aids factual detail
 
+### Light Temperature
+Light temperature in Kelvin describes the color of light. 
+The lower the temperature the more red and yellow are introduced. 
+
+4500k is considered "neutral" or "natural" light. 
+
 ## Photogrammetry
 
 Ground sampling distance (GSD) in Pixels per Millimeter:
