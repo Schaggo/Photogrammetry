@@ -27,7 +27,7 @@ This guide aims to provide an overview about photogrammetry for beginners and in
             - Camera settings
             - System camera lens guide
         - Other cameras
-            - Phones
+            - Phones [goto](https://github.com/Schaggo/Photogrammetry/tree/main/Capturing_Data/Cameras/Phones)
             - Raspberry, ESP, 
             - Action cams
         - Video cameras
